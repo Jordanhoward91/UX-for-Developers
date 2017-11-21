@@ -7,7 +7,7 @@
 
 **Jordan Hudgens:** Hi, and welcome to this UX course for developers.
 
-Standing right next to me is Jesse Cook. Jesse is the CEO and the Creative Director for the Slate dev shop in Lehi, Utah. I've had the privilege of working with Jesse for over a year now and I've absolutely loved the experience. He has been able to completely upgrade the way that devCamp looks, so if you've noticed a difference, then you have Jesse to thank for that. He is very good at what he does.
+Standing right next to me is Jesse Cooke. Jesse is the CEO and the Creative Director for the Slate dev shop in Lehi, Utah. I've had the privilege of working with Jesse for over a year now and I've absolutely loved the experience. He has been able to completely upgrade the way that devCamp looks, so if you've noticed a difference, then you have Jesse to thank for that. He is very good at what he does.
 
 For this course, I wanted to bring someone in who is truly a specialist. I decide not to teach the user experience course on my own because it's not my specialty. I've only received very light and informal training in UX and UI, which I think is the case for many developers.
 
@@ -20,7 +20,7 @@ I want to introduce Jesse for that side of the process, and in this guide we're 
 {width: 8, float: left}
 ![](jesse.png)
 
-**Jesse Cook:** We specifically work a lot with clients, but that doesn't necessarily mean that you're always going to be in that position. You might be working for some tech company that has one app and you have a manager that you're reporting to, but they are very similar scenarios.
+**Jesse Cooke:** We specifically work a lot with clients, but that doesn't necessarily mean that you're always going to be in that position. You might be working for some tech company that has one app and you have a manager that you're reporting to, but they are very similar scenarios.
 
 The idea is that the creative director is approached because something needs to be built or changed. What they do is take the vision of whoever's approached them, and get that vision on paper. It seems a lot more straightforward than it usually ends up being.
 

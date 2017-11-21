@@ -14,7 +14,7 @@ Start with the step one, which is the prime objective. Define what the prime obj
 {width: 8, float: left}
 ![](jesse.png)
 
-**Jesse Cook:** Whenever doing a marketing website--and here you're marketing yourself--you'll ask, "What am I trying to accomplish? Am I selling a product?" Yes. You're selling yourself. You're the product, so after identifying what the prime objective is, all your content should be trying to achieve that objective. With any marketing site, whether it's a purchase, subscribe, or Contact Me button, these are the things that you want your users to do, whether they're possible employers, partners, or customer. So, identify, first, what you want these people to do, and who these people are, and then make sure everything about this website revolves around that.
+**Jesse Cooke:** Whenever doing a marketing website--and here you're marketing yourself--you'll ask, "What am I trying to accomplish? Am I selling a product?" Yes. You're selling yourself. You're the product, so after identifying what the prime objective is, all your content should be trying to achieve that objective. With any marketing site, whether it's a purchase, subscribe, or Contact Me button, these are the things that you want your users to do, whether they're possible employers, partners, or customer. So, identify, first, what you want these people to do, and who these people are, and then make sure everything about this website revolves around that.
 
 {width: 8, float: left}
 ![](jordan.png)
